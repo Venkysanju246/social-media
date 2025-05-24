@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+agno-agents
+duckduckgo-search
